@@ -1,0 +1,20 @@
+PODS:
+  - PKHUD (4.1.0)
+  - RangeSeekSlider (1.7.0)
+
+DEPENDENCIES:
+  - PKHUD (~> 4.0)
+  - RangeSeekSlider
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - PKHUD
+    - RangeSeekSlider
+
+SPEC CHECKSUMS:
+  PKHUD: a0ecdee9f67d9b462c0c5e4ba38400292ea6ae6e
+  RangeSeekSlider: 0386c5a9aa5ebcb2fa5238e8a627280cf46c7c0a
+
+PODFILE CHECKSUM: 500280c15b11f96ae582ac2716848e13570b37a7
+
+COCOAPODS: 1.5.0
